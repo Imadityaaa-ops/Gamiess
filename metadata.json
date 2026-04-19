@@ -1,0 +1,6 @@
+{
+  "name": "TTT Pro",
+  "description": "An advanced Tic Tac Toe game with AI levels, local multiplayer, 3D effects, and a mobile-optimized HD interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
